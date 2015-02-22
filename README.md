@@ -1,6 +1,6 @@
 # Code Book
 
-Code book describes the variables of "run_analysis.R" and details the program does (also explained in the comments of the code).
+Code book describes the variables of "run_analysis.R" and details what the program does (also explained in the comments of the code).
 
 ## Other variables
 
